@@ -15,7 +15,7 @@ game.setReady()
 # GUI starts here
 
 # Title
-st.header('SI 649 Robogame Dashboard')
+st.header('SI 649 Robogame Dashboard: Team More Awesome')
 
 status = st.empty()
 

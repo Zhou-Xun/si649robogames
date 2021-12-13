@@ -13,6 +13,6 @@ python ./api.py -d ./example1/ -s -t1s bob examplematch1
 ```  
 To run dashboard
 ```
-cd ./clients/
+cd ./clients
 streamlit run dashboard.py
 ```

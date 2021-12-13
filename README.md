@@ -8,10 +8,11 @@ The client directory has example clients and a web interface to modify the guess
 To run the server
 
 ```
-  cd ./server
-  python .\api.py -d .\example1\ -s -t1s bob examplematch1
+cd ./server
+python ./api.py -d ./example1/ -s -t1s bob examplematch1
 ```  
 To run dashboard
 ```
-  streamlit run .\clients\dashboard.py
+cd ./clients/
+streamlit run dashboard.py
 ```
